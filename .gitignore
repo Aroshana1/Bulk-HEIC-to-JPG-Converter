@@ -1,0 +1,12 @@
+# Photo files
+*.[hH][eE][iI][cC]
+*.[hH][eE][iI][fF]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+
+# Converted output folders
+JPG/
+
+# Windows files
+Thumbs.db
+Desktop.ini
